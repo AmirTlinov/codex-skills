@@ -95,7 +95,7 @@
   "questions": [
     {
       "id": "plan_format",
-      "header": "Выбор формата плана",
+      "header": "Формат плана",
       "question": "Какой формат плана вы хотите получить?",
       "options": [
         { "label": "PLAN+SLICE (Recommended)", "description": "Единый PLAN.md + зависимые слайсы, быстрый контроль итераций." },
@@ -106,4 +106,3 @@
   ]
 }
 ```
-

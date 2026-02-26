@@ -38,7 +38,9 @@ description: "Проводит управленческое discovery-интер
 
 - Используй вопросы из `references/question-bank.md`.
 - Собери ответы в `Intent Profile` (1–2 абзаца).
-- После каждого блока связывай ответы с инженерными инвариантами через `references/engineering-invariants-mapping.md`.
+- После каждого блока:
+  - зафиксируй decision log (см. `references/decision-log.md`)
+  - свяжи ответы с «обязательными условиями» (инвариантами) через `references/engineering-invariants-mapping.md`.
 
 ### Шаг 3 — обязательный выбор формата
 
@@ -50,8 +52,9 @@ description: "Проводит управленческое discovery-интер
 ### Шаг 4 — финальная выдача
 
 - **Всегда** сформируй блок `<proposed_plan>`.
-- Для форматов `GitHub Issues` и `PLAN+SLICE` вывод — короткий summary + карта артефактов + `self-critique`/самокритика.
-- Для `full <proposed_plan>` вывод — детальный план + `self-critique`.
+- Для форматов `GitHub Issues` и `PLAN+SLICE` вывод — короткий summary + карта артефактов + `self-critique` + `flagship-suggestions`.
+- Для `full <proposed_plan>` вывод — детальный план + `self-critique` + `flagship-suggestions`.
+- Для каркаса структуры используй шаблоны из `references/templates/`.
 
 ## Дополнительные ориентиры
 

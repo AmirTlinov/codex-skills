@@ -42,9 +42,9 @@ description: "Проводит управленческое discovery-интер
 
 ### Шаг 3 — обязательный выбор формата
 
-- Обязательно спроси формат плана через `request_user_input` (рекомендуемый вариант: **PLAN+SLICE**):
-  1. `GitHub Issues`
-  2. `PLAN+SLICE`
+- Обязательно спроси формат плана через `request_user_input` (рекомендуемый вариант: **PLAN+SLICE (Recommended)**):
+  1. `PLAN+SLICE`
+  2. `GitHub Issues`
   3. `full <proposed_plan>`
 
 ### Шаг 4 — финальная выдача

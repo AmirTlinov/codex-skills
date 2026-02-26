@@ -38,6 +38,7 @@ description: "Проводит управленческое discovery-интер
 
 - Используй вопросы из `references/question-bank.md`.
 - Собери ответы в `Intent Profile` (1–2 абзаца).
+- Отдельно спроси и зафиксируй «что НЕ делаем сейчас» (это станет явным OUT в плане/задачах).
 - После каждого блока:
   - зафиксируй decision log (см. `references/decision-log.md`)
   - свяжи ответы с «обязательными условиями» (инвариантами) через `references/engineering-invariants-mapping.md`.
